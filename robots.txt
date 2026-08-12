@@ -1,0 +1,7 @@
+# robots.txt for BMI Calculator
+# Replace YOUR-DOMAIN.com below with your real domain before publishing.
+
+User-agent: *
+Allow: /
+
+Sitemap: https://YOUR-DOMAIN.com/sitemap.xml
