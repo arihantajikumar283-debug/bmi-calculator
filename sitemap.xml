@@ -1,34 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Replace https://YOUR-DOMAIN.com with your real domain before publishing. -->
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
   <url>
-    <loc>https://YOUR-DOMAIN.com/</loc>
+    <loc>https://bmiwise.pages.dev/</loc>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
+
   <url>
-    <loc>https://YOUR-DOMAIN.com/about.html</loc>
+    <loc>https://bmiwise.pages.dev/about.html</loc>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
+
   <url>
-    <loc>https://YOUR-DOMAIN.com/faq.html</loc>
+    <loc>https://bmiwise.pages.dev/faq.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
+
   <url>
-    <loc>https://YOUR-DOMAIN.com/contact.html</loc>
+    <loc>https://bmiwise.pages.dev/contact.html</loc>
     <changefreq>yearly</changefreq>
     <priority>0.4</priority>
   </url>
+
   <url>
-    <loc>https://YOUR-DOMAIN.com/privacy.html</loc>
+    <loc>https://bmiwise.pages.dev/privacy.html</loc>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
+
   <url>
-    <loc>https://YOUR-DOMAIN.com/terms.html</loc>
+    <loc>https://bmiwise.pages.dev/terms.html</loc>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
+
 </urlset>
